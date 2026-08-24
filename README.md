@@ -11,3 +11,5 @@ In this practical I have added an interactive CLI with error handling and swappe
 PRACTICAL 4,
 In this Practical , I learned how to calculate the nth Fibonacci number using an iterative approach. I understood how loops and variables can be used to efficiently generate Fibonacci numbers without recursion. This experiment helped me understand algorithm efficiency, basic problem-solving, and how to implement mathematical logic using Python.
 
+Practical 5,
+In this experiment, I learned how to find the Longest Common Subsequence (LCS) of two strings using Dynamic Programming. I understood how to create and fill a DP table, compare characters, and use backtracking to find the actual subsequence efficiently.
