@@ -13,3 +13,5 @@ In this Practical , I learned how to calculate the nth Fibonacci number using an
 
 PRACTICAL 5,
 In this experiment, I learned how to find the Longest Common Subsequence (LCS) of two strings using Dynamic Programming. I understood how to create and fill a DP table, compare characters, and use backtracking to find the actual subsequence efficiently.
+
+PRACTICAL 6, In this practical, I learned how to solve the 0/1 Knapsack Problem using Dynamic Programming. I understood how to build and use a DP table to calculate the maximum profit within a given capacity. I also learned how to trace the table backwards to identify the selected items. This experiment helped me understand dynamic programming, optimization, and efficient problem-solving using Python.
